@@ -74,7 +74,7 @@ Este projeto ilustra o poder do Blynk ao possibilitar a interação eficiente en
 
 ![image](https://github.com/Cayo-Cesar/ESP8266-ESP12E/assets/96149641/1b0aef91-ce63-4843-887b-426f6b60b633)
 
-* Considerações Finais
+# Considerações Finais
 
 Baseado nos exemplos, o uso mais voltado para a placa ESP8266, como o NodeMCU ESP-12, envolve a criação de projetos de Internet das Coisas (IoT) que exigem conectividade Wi-Fi. Sua capacidade de se conectar a redes sem fio e se comunicar com servidores remotos torna-a ideal para projetos que envolvam monitoramento e controle remoto, coleta de dados de sensores, automação residencial, sistemas de segurança, exibição de informações em tempo real e muito mais. Além disso, devido à sua comunidade ativa e às bibliotecas disponíveis, a placa ESP8266 é amplamente utilizada no desenvolvimento de protótipos e soluções de IoT devido à sua facilidade de uso e acessibilidade.
 
